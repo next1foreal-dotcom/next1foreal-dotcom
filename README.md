@@ -12,16 +12,10 @@ Exploring AI agents. Building small media and AI tools.
 
 [**creative-components →**](https://github.com/next1foreal-dotcom/creative-components)
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/next1foreal-dotcom/creative-components/tree/main/thinking-effort"><strong>Thinking Effort</strong></a></td>
-<td width="50%"><a href="https://github.com/next1foreal-dotcom/creative-components/tree/main/model-slot"><strong>Model Slot</strong></a></td>
-</tr>
-<tr>
-<td><video src="https://github.com/user-attachments/assets/03b9405e-8457-44b0-936b-b5b7cd1af31e" controls></video></td>
-<td><video src="https://github.com/user-attachments/assets/2f4fb925-c2bf-4ab2-b0d2-832ce937cc5e" controls></video></td>
-</tr>
-</table>
+<a href="https://github.com/next1foreal-dotcom/next1foreal-dotcom/blob/main/DEMOS.md#thinking-effort"><img src="https://raw.githubusercontent.com/next1foreal-dotcom/creative-components/main/thinking-effort/media/poster.png" alt="播放 Thinking Effort 演示" width="49%" /></a>
+<a href="https://github.com/next1foreal-dotcom/next1foreal-dotcom/blob/main/DEMOS.md#model-slot"><img src="https://raw.githubusercontent.com/next1foreal-dotcom/creative-components/main/model-slot/media/poster.png" alt="播放 Model Slot 演示" width="49%" /></a>
+
+[▶ Thinking Effort](https://github.com/next1foreal-dotcom/next1foreal-dotcom/blob/main/DEMOS.md#thinking-effort) · [▶ Model Slot](https://github.com/next1foreal-dotcom/next1foreal-dotcom/blob/main/DEMOS.md#model-slot)
 
 ## Small tools
 
