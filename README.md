@@ -12,13 +12,16 @@ Exploring AI agents. Building small media and AI tools.
 
 [**creative-components →**](https://github.com/next1foreal-dotcom/creative-components)
 
-### [Thinking Effort](https://github.com/next1foreal-dotcom/creative-components/tree/main/thinking-effort)
-
-https://github.com/user-attachments/assets/03b9405e-8457-44b0-936b-b5b7cd1af31e
-
-### [Model Slot](https://github.com/next1foreal-dotcom/creative-components/tree/main/model-slot)
-
-https://github.com/user-attachments/assets/2f4fb925-c2bf-4ab2-b0d2-832ce937cc5e
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/next1foreal-dotcom/creative-components/tree/main/thinking-effort"><strong>Thinking Effort</strong></a></td>
+<td width="50%"><a href="https://github.com/next1foreal-dotcom/creative-components/tree/main/model-slot"><strong>Model Slot</strong></a></td>
+</tr>
+<tr>
+<td><video src="https://github.com/user-attachments/assets/03b9405e-8457-44b0-936b-b5b7cd1af31e" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/2f4fb925-c2bf-4ab2-b0d2-832ce937cc5e" controls></video></td>
+</tr>
+</table>
 
 ## Small tools
 
