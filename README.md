@@ -12,10 +12,13 @@ Exploring AI agents. Building small media and AI tools.
 
 [**creative-components →**](https://github.com/next1foreal-dotcom/creative-components)
 
-<a href="https://github.com/next1foreal-dotcom/creative-components/tree/main/thinking-effort"><img src="https://raw.githubusercontent.com/next1foreal-dotcom/creative-components/main/thinking-effort/media/poster.png" alt="Thinking Effort — 大脑与僵尸的思考强度滑块" width="49%" /></a>
-<a href="https://github.com/next1foreal-dotcom/creative-components/tree/main/model-slot"><img src="https://raw.githubusercontent.com/next1foreal-dotcom/creative-components/main/model-slot/media/poster.png" alt="Model Slot — 迷你老虎机形态的模型选择器" width="49%" /></a>
+### [Thinking Effort](https://github.com/next1foreal-dotcom/creative-components/tree/main/thinking-effort)
 
-[Thinking Effort](https://github.com/next1foreal-dotcom/creative-components/tree/main/thinking-effort) · [Model Slot](https://github.com/next1foreal-dotcom/creative-components/tree/main/model-slot)
+https://github.com/user-attachments/assets/03b9405e-8457-44b0-936b-b5b7cd1af31e
+
+### [Model Slot](https://github.com/next1foreal-dotcom/creative-components/tree/main/model-slot)
+
+https://github.com/user-attachments/assets/2f4fb925-c2bf-4ab2-b0d2-832ce937cc5e
 
 ## Small tools
 
