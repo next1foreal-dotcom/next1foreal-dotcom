@@ -31,3 +31,8 @@ Real, usable controls for AI apps, each with a joke built in. Use them in **Reac
 
 - [**media-grabber**](https://github.com/next1foreal-dotcom/media-grabber): drop in a link and get the video, images or the article as Markdown (YouTube, X, Instagram, Bilibili, TikTok, Xiaohongshu and more)
 - [**pack-any-cli**](https://github.com/next1foreal-dotcom/pack-any-cli): one CLI that drives the packaging toolchains you already have
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/next1foreal-dotcom/next1foreal-dotcom/output/snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/next1foreal-dotcom/next1foreal-dotcom/output/snake.svg" width="100%">
+</picture>
