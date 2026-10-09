@@ -1,4 +1,4 @@
-# FeiFei
+# Next1
 
 摸索 AI agent，写一点媒体和 AI 工具。
 
