@@ -1,4 +1,4 @@
-<img src="./assets/banner.jpg" alt="Hey, I'm Next1. Making fun stuff with AI, just for fun." width="100%">
+<img src="./assets/banner.webp" alt="Hey, I'm Next1. Making fun stuff with AI, just for fun." width="100%">
 
 I make playful, illustrated things with AI: UI components with a little story inside, and small tools I actually use. Vibe-coded, just for fun.
 
