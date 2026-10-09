@@ -1,8 +1,8 @@
 # Next1
 
-摸索 AI agent，写一点媒体和 AI 工具。
+探索 AI agents，做有趣的界面，也做顺手的工具。
 
-Exploring AI agents. Building small media and AI tools.
+Exploring AI agents. Building playful interfaces and useful tools.
 
 [Website](https://heynext1.com/) · [X / @nextoneforeal](https://x.com/nextoneforeal) · [Projects](https://github.com/next1foreal-dotcom?tab=repositories&type=source)
 
@@ -14,12 +14,16 @@ Exploring AI agents. Building small media and AI tools.
 
 <table>
 <tr>
-<td width="360"><video src="https://github.com/user-attachments/assets/03b9405e-8457-44b0-936b-b5b7cd1af31e" controls></video></td>
-<td width="360"><video src="https://github.com/user-attachments/assets/2f4fb925-c2bf-4ab2-b0d2-832ce937cc5e" controls></video></td>
+<td width="360" valign="top">
+<video src="https://github.com/user-attachments/assets/03b9405e-8457-44b0-936b-b5b7cd1af31e" controls></video>
+<p><strong>Thinking Effort</strong><br>带插画的推理强度选择器<br><a href="https://github.com/next1foreal-dotcom/creative-components/tree/main/thinking-effort">查看源码 →</a></p>
+</td>
+<td width="360" valign="top">
+<video src="https://github.com/user-attachments/assets/2f4fb925-c2bf-4ab2-b0d2-832ce937cc5e" controls></video>
+<p><strong>Model Slot</strong><br>用老虎机交互选择 AI 模型<br><a href="https://github.com/next1foreal-dotcom/creative-components/tree/main/model-slot">查看源码 →</a></p>
+</td>
 </tr>
 </table>
-
-[Thinking Effort](https://github.com/next1foreal-dotcom/creative-components/tree/main/thinking-effort) · [Model Slot](https://github.com/next1foreal-dotcom/creative-components/tree/main/model-slot)
 
 ## Small tools
 
