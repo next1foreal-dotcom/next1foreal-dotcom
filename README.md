@@ -1,31 +1,33 @@
-# Next1
+<img src="./assets/banner.jpg" alt="Hey, I'm Next1. Making fun stuff with AI, just for fun." width="100%">
 
-探索 AI agents，做有趣的界面，也做顺手的工具。
+I make playful, illustrated things with AI: UI components with a little story inside, and small tools I actually use. Vibe-coded, just for fun.
 
-Exploring AI agents. Building playful interfaces and useful tools.
-
-[Website](https://heynext1.com/) · [X / @nextoneforeal](https://x.com/nextoneforeal) · [Projects](https://github.com/next1foreal-dotcom?tab=repositories&type=source)
+[heynext1.com](https://heynext1.com/) · [X / @nextoneforeal](https://x.com/nextoneforeal)
 
 ## Creative Components
 
-给 AI 应用做一点有趣的交互：带插画、带故事，也能真正使用。
-
-[**creative-components →**](https://github.com/next1foreal-dotcom/creative-components)
+Real, usable controls for AI apps, each with a joke built in. Use them in **React**, or in **plain HTML** with one script tag.
 
 <table>
 <tr>
-<td width="360" valign="top">
-<video src="https://github.com/user-attachments/assets/03b9405e-8457-44b0-936b-b5b7cd1af31e" controls></video>
-<p><strong>Thinking Effort</strong><br>带插画的推理强度选择器<br><a href="https://github.com/next1foreal-dotcom/creative-components/tree/main/thinking-effort">查看源码 →</a></p>
+<td width="33%" valign="top">
+<a href="https://github.com/next1foreal-dotcom/creative-components/tree/main/thinking-effort"><img src="./assets/thinking-effort.jpg" alt="Thinking Effort"></a>
+<p><strong>Thinking Effort</strong><br>The knob is a brain and a zombie chases it. Pull it too low and the brain gets eaten.</p>
 </td>
-<td width="360" valign="top">
-<video src="https://github.com/user-attachments/assets/2f4fb925-c2bf-4ab2-b0d2-832ce937cc5e" controls></video>
-<p><strong>Model Slot</strong><br>用老虎机交互选择 AI 模型<br><a href="https://github.com/next1foreal-dotcom/creative-components/tree/main/model-slot">查看源码 →</a></p>
+<td width="33%" valign="top">
+<a href="https://github.com/next1foreal-dotcom/creative-components/tree/main/model-slot"><img src="./assets/model-slot.jpg" alt="Model Slot"></a>
+<p><strong>Model Slot</strong><br>A model picker that's a tiny slot machine. Pull the lever and Opus hits the jackpot.</p>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/next1foreal-dotcom/creative-components/tree/main/pixel-dialog"><img src="./assets/pixel-dialog.jpg" alt="Pixel Dialog"></a>
+<p><strong>Pixel Dialog</strong><br>A chat input that's an RPG dialogue box. Your message is a spell, models are party members, effort is MP.</p>
 </td>
 </tr>
 </table>
 
+[**See all components →**](https://github.com/next1foreal-dotcom/creative-components)
+
 ## Small tools
 
-- [**media-grabber**](https://github.com/next1foreal-dotcom/media-grabber) — 丢一个链接，下载视频、图片，或把文章转成 Markdown
-- [**pack-any-cli**](https://github.com/next1foreal-dotcom/pack-any-cli) — 编排现有打包工具链的 CLI
+- [**media-grabber**](https://github.com/next1foreal-dotcom/media-grabber): drop in a link and get the video, images or the article as Markdown (YouTube, X, Instagram, Bilibili, TikTok, Xiaohongshu and more)
+- [**pack-any-cli**](https://github.com/next1foreal-dotcom/pack-any-cli): one CLI that drives the packaging toolchains you already have
