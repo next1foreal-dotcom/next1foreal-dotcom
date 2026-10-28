@@ -33,6 +33,6 @@ Real, usable controls for AI apps, each with a joke built in. Use them in **Reac
 - [**pack-any-cli**](https://github.com/next1foreal-dotcom/pack-any-cli): one CLI that drives the packaging toolchains you already have
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/next1foreal-dotcom/next1foreal-dotcom/output/snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/next1foreal-dotcom/next1foreal-dotcom/output/snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/next1foreal-dotcom/next1foreal-dotcom/output/snake-dark.svg?v=e343fc746110f3227188ffe496cfba3d34eab5bc">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/next1foreal-dotcom/next1foreal-dotcom/output/snake.svg?v=e343fc746110f3227188ffe496cfba3d34eab5bc" width="100%">
 </picture>
